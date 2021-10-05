@@ -22,6 +22,7 @@ We will use several special Python packages to process geodata and to interact w
 * sqlalchemy 
 * psycopg2
 * rasterio
+
 Create a new Anaconda environment. Do NOT install the packages in the base environment, e.g.
 
 ```
