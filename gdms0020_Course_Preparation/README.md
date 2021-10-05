@@ -23,7 +23,7 @@ We will use several special Python packages to process geodata and to interact w
 * psycopg2
 * rasterio
 
-Create a new Anaconda environment. Do NOT install the packages in the base environment, e.g.
+**Create a new Anaconda environment. Do NOT install the packages in the base environment!**
 
 ```
 conda create --name geo
