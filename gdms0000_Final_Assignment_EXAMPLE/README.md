@@ -1,4 +1,4 @@
-# EE_3.07 Geodata Management Systems - Final Assignment
+# EE_3.07 Geodata Management Systems - Final Assignment EXAMPLE!
 
 ## 0. General Remarks
 
