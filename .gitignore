@@ -16,6 +16,8 @@ tmp/
 
 # Ignore large XYZ data files 
 data/original/DTM_Xanten/dgm1_05170052_Xanten_EPSG4647_XYZ/dgm1*
+data/original/DWD/*
+
 
 # Exceptions allow to disseminate the solutions selectively.
 
