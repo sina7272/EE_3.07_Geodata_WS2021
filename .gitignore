@@ -14,12 +14,15 @@ tmp/
 *.ipynb_checkpoints/
 *checkpoint.ipynb
 
-# Ignore large XYZ data files 
-data/original/NRW_DTM_XYZ_Xanten_EPSG_4647_old/dgm1_05170052_Xanten_EPSG4647_XYZ/dgm1*
-data/original/NRW_DTM_XYZ_Xanten_EPSG_4647_old/dgm1_05170052_Xanten_EPSG4647_XYZ.zip
-data/original/NRW_DTM_XYZ_Hees_EPSG_25832/*gz
-data/original/NRW_DTM_XYZ_Xanten_EPSG_25832/*gz
 data/original/DWD/*
+
+data/original/NRW_DTM_Xanten_EPSG_4647_XYZ_old/dgm1_05170052_Xanten_EPSG4647_XYZ/dgm1*
+data/original/NRW_DTM_Xanten_EPSG_4647_XYZ_old/dgm1_05170052_Xanten_EPSG4647_XYZ.zip
+
+data/original/NRW_DTM_Hees_EPSG_25832_XYZ/*
+data/original/NRW_DTM_Xanten_EPSG_25832_XYZ/*
+
+data/derived/NRW_DTM_Hees_EPSG_25832_GeoTiff/*
 
 
 # Exceptions allow to disseminate the solutions selectively.
