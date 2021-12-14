@@ -1,3 +1,9 @@
+/* 
+  Connect as user env_master to database env_db:
+  psql -h localhost -U env_master -d env_db -f 030_create_bars_exercise_tables_and_insert_V001.sql 
+*/
+
+
 /* Create table Sells */
 
 DROP TABLE public."Sells";
