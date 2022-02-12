@@ -23,11 +23,12 @@ and can create scripts to automate geospatial data processing.
 * Layers and mapping
 * Spatial analysis
 * Coordinate systems and geo‐rectification
+* 
 * Geodatabases (PostGIS
 * Web services
 * Real‐time sensor data integration
 * Simple processing of remote sensing data
-* Scripting for automated processing
+* Python scripting for automated processing
 
 ## How to download or clone the course material
 
