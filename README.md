@@ -20,17 +20,18 @@ real‐time sensor data. They are aware of fundamental remote sensing and relate
 and can create scripts to automate geospatial data processing.
 
 # Content
-* Motivation for Geographic Information Systems (GIS)
+* Geographic Information Systems (QGIS)
 * Spatial data types
 * Layers and mapping
 * Spatial analysis
-* Coordinate systems and geo‐rectification
-* 
-* Geodatabases (PostGIS
-* Web services
+* Coordinate reference systems 
+* Georeferencing
+* Relational databases (PostgreSQL)
+* Geodatabases (PostGIS)
+* Web services (WMS, WCS, WFS)
 * Real‐time sensor data integration
 * Simple processing of remote sensing data
-* Python scripting for automated processing
+* Python scripting for geospatio-temporal data engineering and automated processing
 
 ## How to download or clone the course material
 
