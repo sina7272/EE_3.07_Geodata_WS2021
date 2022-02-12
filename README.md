@@ -9,11 +9,10 @@ The course _HSRW EE_3.07: Fundamentals of Geodata Management Systems_ uses **fre
 
 The course uses **open environmental data** to introduce concepts, study problems and develop solutions. Data sources are for example the [**NRW open geodata archive**](https://www.opengeodata.nrw.de/produkte/) of the German federal state of North Rhine-Westphalia (NRW) as well as the [**DWD climate data center**](https://www.dwd.de/EN/climate_environment/cdc/cdc_node_en.html) of the German Weather Service (Deutscher Wetterdienst, DWD), the [**European Copernicus Program**](https://www.copernicus.eu/en) including the Sentinel satellite data, the [**NASA Landsat satellites data collection**](https://landsat.gsfc.nasa.gov/data/), and many more. 
 
-<img src=\"./images/QGIS_p01_Germany_Flood_p01.png\" width=1000 />
 
 ![Test](./images/QGIS_p01_Germany_Flood_p01.png "My fig")
 
-_Fig.: The 2021 severe flood in Germany. RADOLAN spatial precipitation distribution accumulated between 2021-07-13T12:50UTC and 2021-07-15T12:55UTC (two days) and the river catchments affected most by the extreme rainfall. The brightest pink areas showed a precipitation height above 80 mm._
+_Fig.: QGIS showing the severe 2021 rainfall, the cause of the disastrous flooding in Germany. RADOLAN spatial precipitation distribution accumulated between 2021-07-13T12:50UTC and 2021-07-15T12:55UTC (two days) and the river catchments affected most by the extreme rainfall. The brightest pink areas showed a precipitation height above 80 mm._
 
 ## Learning outcomes / Competences and qualifications profile
 
