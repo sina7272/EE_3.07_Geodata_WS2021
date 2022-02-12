@@ -4,3 +4,24 @@ This git repository provides the **open educational resources (OER)** used in th
 
 We use this GitLab repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. You can find more info in Git in the [Course Preparation Section](./gdms0020_Course_Preparation/README.md).
 
+## Learning outcomes / Competences and qualifications profile
+
+Having passed this course students are able to describe the fundamental concepts of Geographic Information
+Science and Technology. Students have demonstrated proficiency in the basic functions of geospatial software
+including map creation, map projection and spatial analysis. They understand the potential of geospatial data
+related web services. They know the concept of geospatial databases and have gained experience in using
+relational databases for storing attribute data. Students are able to create own spatial data and to integrate
+real‐time sensor data. They are aware of fundamental remote sensing and related spatial analysis techniques
+and can create scripts to automate geospatial data processing.
+
+# Content
+* Motivation for Geographic Information Systems (GIS)
+* Spatial data types
+*  Layers and mapping
+*  Spatial analysis
+*  Coordinate systems and geo‐rectification
+*  Geodatabases (PostGIS
+*  Web services
+*   Real‐time sensor data integration
+*   Simple processing of remote sensing data
+*   Scripting for automated processing
