@@ -2,7 +2,10 @@
 
 This git repository provides the **open educational resources (OER)** used in the 3rd semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). The course started in winter semester WS2019/20 for the first time. Course manager and instructor is Rolf Becker.
 
-We use this GitLab repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. You can find more info in Git in the [Course Preparation Section](./gdms0020_Course_Preparation/README.md).
+## Motivation
+We live in a spatio-temporal world and use different systems to make our lives easier or to better understand our environment. Geospatial data (aka spatial data or geo data) is location dependent data related to the globe ("geo"). In fact real-world data is not just location dependent but also time varying, such as air temperature, land use, population development, traffic jams, or even city maps on a longer time scale. We use the term **geospatio-temporal data** to denote location and time dependent data. 
+
+The 
 
 ## Learning outcomes / Competences and qualifications profile
 
@@ -17,11 +20,14 @@ and can create scripts to automate geospatial data processing.
 # Content
 * Motivation for Geographic Information Systems (GIS)
 * Spatial data types
-*  Layers and mapping
-*  Spatial analysis
-*  Coordinate systems and geo‐rectification
-*  Geodatabases (PostGIS
-*  Web services
-*   Real‐time sensor data integration
-*   Simple processing of remote sensing data
-*   Scripting for automated processing
+* Layers and mapping
+* Spatial analysis
+* Coordinate systems and geo‐rectification
+* Geodatabases (PostGIS
+* Web services
+* Real‐time sensor data integration
+* Simple processing of remote sensing data
+* Scripting for automated processing
+
+
+We use this GitLab repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. You can find more info in Git in the [Course Preparation Section](./gdms0020_Course_Preparation/README.md).
