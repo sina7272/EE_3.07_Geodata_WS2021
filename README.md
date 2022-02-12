@@ -11,6 +11,8 @@ The course uses **open environmental data** to introduce concepts, study problem
 
 <img src=\"./images/QGIS_p01_Germany_Flood_p01.png\" width=1000 />
 
+![Test](./images/QGIS_p01_Germany_Flood_p01.png "My fig")
+
 _Fig.: The 2021 severe flood in Germany. RADOLAN spatial precipitation distribution accumulated between 2021-07-13T12:50UTC and 2021-07-15T12:55UTC (two days) and the river catchments affected most by the extreme rainfall. The brightest pink areas showed a precipitation height above 80 mm._
 
 ## Learning outcomes / Competences and qualifications profile
