@@ -1,4 +1,4 @@
-# Welcome to the HSRW Course EE_3.07: <br>Fundamentals of Geodata Management Systems!
+# Welcome to the course HSRW EE_3.07: <br>Fundamentals of Geodata Management Systems!
 
 This git repository provides the **open educational resources (OER)** used in the 3rd semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). The course started in winter semester WS2019/20 for the first time. Course manager and instructor is Rolf Becker.
 
