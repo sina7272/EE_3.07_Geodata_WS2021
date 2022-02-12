@@ -23,6 +23,10 @@ We will use several special Python packages to process geodata and to interact w
 * psycopg2
 * rasterio
 
+## git 
+
+We use git to provide the course material. You should familiarize yourself with git. A short introduction on how to use git is given [here](git.md).
+
 ## Conda Environments  
 
 In Python software development often the concept of _environments_ is used. Environments are  fully separated Python installations. An environment consists of a combination of Python packages with specific version numbers including the Python interpreter itself. Separate environment variables and configuration files can also be provided. In fact the separated environments are individual independent directory sub-trees on the file system. The developer can activate an environment and work with the particular software versions installed in the environment. 
@@ -32,8 +36,4 @@ In Python software development often the concept of _environments_ is used. Envi
 **Go to [Set up your conda environment](gdal_conda_env.md)**
 
 For more information see [conda-cheatsheet.pdf](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
-
-## git 
-
-We use git to provide the course material. You should familiarize yourself with git. A short introduction on how to use git is given [here](git.md).
 
