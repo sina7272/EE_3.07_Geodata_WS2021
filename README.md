@@ -1,4 +1,4 @@
-## Welcome to EE_3.07 Fundamentals of Geodata Management Systems!
+# Welcome to EE_3.07 Fundamentals of Geodata Management Systems!
 
 This is a 3rd semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). The course started in winter semester WS2019/20 for the first time. Course manager and instructor is Rolf Becker.
 
