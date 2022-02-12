@@ -1,11 +1,11 @@
 # Welcome to the course HSRW EE_3.07: <br>Fundamentals of Geodata Management Systems!
 
-This git repository provides the **open educational resources (OER)** used in the 3rd semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [Rhine-Waal University of Applied Sciences (HSRW)](https://www.hsrw.eu/). The course started in winter semester WS2019/20 for the first time. Course manager and instructor is Rolf Becker.
+This git repository provides the **open educational resources (OER)** used in the 3rd semester course of the [**Environment & Energy Program**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at [**Rhine-Waal University of Applied Sciences (HSRW)**](https://www.hsrw.eu/). The course started in winter semester WS2019/20 for the first time. Course manager and instructor is Rolf Becker.
 
 ## Motivation
 We live in a spatio-temporal world and use different systems to make our lives easier or to better understand our environment. Geospatial data (aka spatial data or geo data) is location dependent data related to the globe ("geo"). In fact real-world data is not just location dependent but also time varying, such as air temperature, land use, population development, traffic jams, or even city maps on a longer time scale. We use the term **geospatio-temporal data** to denote location and time dependent data. 
 
-The 
+The course _HSRW EE_3.07: Fundamentals of Geodata Management Systems_ uses **free and open source software (FOSS)** to introduce the basic concepts of **geospatio-temporal data engineering**. Among the FOSS are the geographic information system (GIS) **QGIS**, the advanced object relation database management system **PostgreSQL** including its geospatial datadase extension **PostGIS** as well as the programming language **Python** together with the **JupyterLab** development environment. This interoperable toolset is an extremely powerful 
 
 ## Learning outcomes / Competences and qualifications profile
 
