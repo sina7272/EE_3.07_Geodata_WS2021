@@ -35,5 +35,5 @@ For more information see [conda-cheatsheet.pdf](https://docs.conda.io/projects/c
 
 ## git 
 
-We use git to provide the course material. You should familiarize yourself with git. A short introduction on how to use git is given in the local file [git.md](git.md).
+We use git to provide the course material. You should familiarize yourself with git. A short introduction on how to use git is given [here](git.md).
 
