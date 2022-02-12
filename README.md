@@ -5,7 +5,7 @@ This git repository provides the **open educational resources (OER)** used in th
 ## Motivation
 We live in a spatio-temporal world and use different systems to make our lives easier or to better understand our environment. Geospatial data (aka spatial data or geo data) is location dependent data related to the globe ("geo"). In fact real-world data is not just location dependent but also time varying, such as air temperature, land use, population development, traffic jams, or even city maps on a longer time scale. We use the term **geospatio-temporal data** to denote location and time dependent data. 
 
-The course _HSRW EE_3.07: Fundamentals of Geodata Management Systems_ uses **free and open source software (FOSS)** to introduce the basic concepts of **geospatio-temporal data engineering**. Among the FOSS are the geographic information system (GIS) **QGIS**, the advanced object relation database management system **PostgreSQL** including its geospatial datadase extension **PostGIS** as well as the programming language **Python** together with the **JupyterLab** development environment. This interoperable toolset is an extremely powerful 
+The course _HSRW EE_3.07: Fundamentals of Geodata Management Systems_ uses **free and open source software (FOSS)** to introduce the basic concepts of **geospatio-temporal data engineering**. Among the FOSS are the geographic information system (GIS) **QGIS**, the advanced object relation database management system **PostgreSQL** including its geospatial datadase extension **PostGIS** as well as the programming language **Python** together with the **JupyterLab** development environment. This **free interoperable toolset** is an extremely powerful, widely used and well documented system for data engineering, management, analysis and presentation.
 
 ## Learning outcomes / Competences and qualifications profile
 
@@ -29,5 +29,6 @@ and can create scripts to automate geospatial data processing.
 * Simple processing of remote sensing data
 * Scripting for automated processing
 
+## How to download or clone the course material
 
-We use this GitLab repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. You can find more info in Git in the [Course Preparation Section](./gdms0020_Course_Preparation/README.md).
+We use this git repository to disseminate the course material. It would be best if you used a Git client to **clone the repository** regularly. You can find more info on how to use git in the [Course Preparation Section](./gdms0020_Course_Preparation/README.md).
