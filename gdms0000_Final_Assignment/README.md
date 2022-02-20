@@ -14,6 +14,7 @@
 1. You have to **produce a presentation** (i.e. Powerpoint or similar) and upload it to your git repo. Describe the **four individual tasks**. See the pptx-template provided in this assignment repo. This includes a **self-assessment**. In case you work in groups each member has to provide a self-assessment. 
 1. You have to **produce one video per group on your presentation** and upload it to your git repo. **All students must take part in their group's video presentation**. 
 1. The video is to present the slides with your results. **Do not explain every detail** in the video, e.g. do not expalin how to execute your code line by line, etc. Just present each task, your methods, and your results. Refer (name or link) to your code files as well as QGIS projects in your slides such we can reproduce your work if we want.
+1. The video should **not exceed 20 minutes, i.e. 5 minutes per task!**
 1. **Do not include your self-assessment in the video!** If your video is great and you agree I would like to make it public after grading as a reference for future students.
 
 
